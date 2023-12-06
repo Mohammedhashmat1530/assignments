@@ -13,7 +13,7 @@ function isAnagram(str1, str2) {
   //i think this above method is easy because in almost 4-5 lines code will be done
 
 
-  var string1=str1.toLowerCase().split('');
+  var string1=str1.toLowerCase().split('')
   var string2=str2.toLowerCase().split('');
   var count=0;
 
