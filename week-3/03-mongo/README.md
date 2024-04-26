@@ -2,6 +2,7 @@
 
 ### Description
 You need to implement a course selling app. Make sure you setup your own mongodb instance before starting. 
+## INSTANCE: mongodb+srv://learn:hash1530@cluster0.12nrqbn.mongodb.net/
 It needs to support two types of users - 
 1. Admins
 2. Users
