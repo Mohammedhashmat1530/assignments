@@ -4,10 +4,10 @@ import React, { useState, useMemo } from 'react';
 
 export const Assignment3 = () => {
     const [items, setItems] = useState([
-        { name: 'Chocolates', value: 10 },
-        { name: 'Chips', value: 20 },
-        { name: 'Onion', value: 30 },
-        { name: 'Tomato', value: 50 },
+        { name: 'Chocolates', value: 150 },
+        { name: 'Chips', value: 205 },
+        { name: 'Onion', value: 304 },
+        { name: 'Tomato', value: 500 },
         // Add more items as needed
     ]);
     
